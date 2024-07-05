@@ -1,4 +1,4 @@
-In questo repository oltre a trovare diversi esecitazione di modelli E/R troverete anche l'esame di fine modulo con la seguente traccia da me sviluppata:
+In questa repository, oltre a trovare diversi esercizi sui modelli E/R, troverete anche l'esame di fine modulo con la seguente traccia da me sviluppata:
 ToysGroup è un’azienda che distribuisce articoli (giocatoli) in diverse aree geografiche del mondo. I prodotti sono classificati in categorie e i mercati di riferimento dell’azienda sono classificati in regioni di vendita. In particolare: Le entità individuabili in questo scenario sono le seguenti: 
 ❏- Product 
 ❏- Region 
@@ -7,6 +7,7 @@ Le relazioni tra le entità possono essere descritte nel modo seguente:
 ❏ Product e Sales 
 ❏ Un prodotto può essere venduto tante volte (o nessuna) per cui è contenuto in una o più transazioni di vendita. ❏ Ciascuna transazione di vendita è riferita ad uno solo prodotto ❏ Region e Sales ❏ Possono esserci molte o nessuna transazione per ciascuna regione 
 ❏ Ciascuna transazione di vendita è riferita ad una sola regione  Fornisci schema concettuale e schema logico.
+
 Troverete, inoltre, esercitazioni chiamate Build Week, siamo stati divisi in gruppi e abbiamo realizzato il progetto che la traccia richiedeva, in questo caso è stata la seguente:
 La concessionaria auto usate SECONDAUTO, chiede un sistema di gestione per le proprie concessionarie sparse su territorio nazionale. Il cliente possiede 50 concessionarie con un parco auto di almeno 20 veicoli a concessionaria e gestisce solo veicoli di 4 marche differenti. Dopo aver diviso i partecipanti i tre gruppi, assegnargli la gestione dei dati riguardanti: 
 ENTITA’: 
